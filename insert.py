@@ -1,3 +1,5 @@
+# Original code that we learned about during the PyLadies meetup: https://github.com/saptaks/python-menu-demo
+
 items = []
 
 def insert_item():
